@@ -6,11 +6,11 @@
 
 📫 How to contact me:
 
-    📱 Telegram: 
+📱 Telegram: @dilshod_qurbonmurotov
 
-    📸 Instagram: [dilshodtech](https://www.instagram.com/dilshodtech/)
+📸 Instagram: [dilshodtech](https://www.instagram.com/dilshodtech/)
 
-    📧 Email: qurbanmurotovd@gmail.com
+📧 Email: qurbanmurotovd@gmail.com
 
 <!---
 dilshodd1103/dilshodd1103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
