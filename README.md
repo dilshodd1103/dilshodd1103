@@ -6,7 +6,7 @@
 
 📫 How to contact me:
 
-📱 Telegram:@dilshod_qurbonmurotov
+📱 Telegram: @[dilshod_qurbonmurotov](https://t.me/dilshod_qurbonmurotov/)
 
 📸 Instagram: [dilshodtech](https://www.instagram.com/dilshodtech/)
 
