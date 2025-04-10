@@ -14,29 +14,19 @@
 
 🖥️ Technologies I work with:
 
-🐍 Python
+- ![Python](URL_to_Python_logo) Python
+- ![PHP](URL_to_PHP_logo) PHP
+- ![Django](URL_to_Django_logo) Django
+- ![FastAPI](URL_to_FastAPI_logo) FastAPI
+- ![PostgreSQL](URL_to_PostgreSQL_logo) PostgreSQL
+- ![Docker](URL_to_Docker_logo) Docker
+- ![Git](URL_to_Git_logo) Git
+- ![Laravel](URL_to_Laravel_logo) Laravel
+- ![MySQL](URL_to_MySQL_logo) MySQL
+- ![SQLite](URL_to_SQLite_logo) SQLite
+- ![GitHub](URL_to_GitHub_logo) GitHub
+- ![GitLab](URL_to_GitLab_logo) GitLab
 
-⚙️ PHP
-
-🌐 Django
-
-🚀 FastAPI
-
-🗄️ PostgreSQL
-
-🐳 Docker
-
-🔧 Git
-
-🧑‍💻 Laravel
-
-🗃️ MySQL
-
-📦 SQLite
-
-🐙 GitHub
-
-🐙 GitLab
 <!---
 dilshodd1103/dilshodd1103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
