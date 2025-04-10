@@ -14,18 +14,19 @@
 
 🖥️ Technologies I work with:
 
-- ![Python](URL_to_Python_logo) Python
-- ![PHP](URL_to_PHP_logo) PHP
-- ![Django](URL_to_Django_logo) Django
-- ![FastAPI](URL_to_FastAPI_logo) FastAPI
-- ![PostgreSQL](URL_to_PostgreSQL_logo) PostgreSQL
-- ![Docker](URL_to_Docker_logo) Docker
-- ![Git](URL_to_Git_logo) Git
-- ![Laravel](URL_to_Laravel_logo) Laravel
-- ![MySQL](URL_to_MySQL_logo) MySQL
-- ![SQLite](URL_to_SQLite_logo) SQLite
-- ![GitHub](URL_to_GitHub_logo) GitHub
-- ![GitLab](URL_to_GitLab_logo) GitLab
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+- ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg) PHP
+- ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg) Django
+- ![FastAPI](https://fastapi.tiangolo.com/img/logo/logo.svg) FastAPI
+- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) PostgreSQL
+- ![Docker](https://upload.wikimedia.org/wikipedia/commons/a/a0/Docker_logo.svg) Docker
+- ![Git](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg) Git
+- ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg) Laravel
+- ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL_logo.svg) MySQL
+- ![SQLite](https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLite370.svg) SQLite
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) GitHub
+- ![GitLab](https://upload.wikimedia.org/wikipedia/commons/7/75/GitLab_Logo.svg) GitLab
+
 
 <!---
 dilshodd1103/dilshodd1103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
