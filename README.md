@@ -11,6 +11,7 @@
 📸 Instagram: [dilshodtech](https://www.instagram.com/dilshodtech/)
 
 📧 Email: qurbanmurotovd@gmail.com
+
 🖥️ Technologies I work with:
 
 🐍 Python
