@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello, I'm Dilshod</h1>
+<h1 align="left">👋 Hello, I'm Dilshod</h1>
 
-<p align="center">
+<p align="left">
   👀 I'm interested in solving various problems through codes <br/>
   💞️ Looking to collaborate with those who need a specialist in <strong>Python</strong> and <strong>PHP</strong> <br/>
 </p>
